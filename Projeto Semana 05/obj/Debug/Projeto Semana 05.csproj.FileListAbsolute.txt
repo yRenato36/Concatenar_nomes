@@ -1,0 +1,23 @@
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\bin\Debug\Projeto Semana 05.exe.config
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\bin\Debug\Projeto Semana 05.exe
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\bin\Debug\Projeto Semana 05.pdb
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto_Semana_05.Form1.resources
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto_Semana_05.Properties.Resources.resources
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.GenerateResource.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto Semana 05.exe
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto Semana 05.pdb
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Projeto Semana 05\Projeto Semana 05\obj\Debug\Projeto_Semana_05.Form2.resources
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\bin\Debug\Projeto Semana 05.exe.config
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\bin\Debug\Projeto Semana 05.exe
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\bin\Debug\Projeto Semana 05.pdb
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto_Semana_05.Form1.resources
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto_Semana_05.Properties.Resources.resources
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.GenerateResource.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto Semana 05.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto Semana 05.exe
+C:\Users\rs323\Desktop\Studying C#\Linguagem de Programação\Nova pasta\Projeto Semana 05\obj\Debug\Projeto Semana 05.pdb
